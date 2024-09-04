@@ -1,0 +1,25 @@
+.button_container{
+    /* border: 1px solid gray; */
+    padding: 1rem;
+}
+.button_container button{
+    width: 20%;
+    padding: 2rem;
+    background-color: rgb(245, 235, 220);
+    font-size: xx-large;
+    border-radius: 10px;
+}
+.table_container{
+    /* width: 80%; */
+    border: 1px solid gray;
+    margin-top: 5rem;
+}
+.table_container table{
+    width: 100%;
+}
+.table_container table,tr,th,td{
+    border: 1px solid gray;
+}
+.table_container table th{
+    background-color: bisque;
+}
